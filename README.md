@@ -1,6 +1,9 @@
-# Apple-Clasify
+# Classification of Apples Based on Color
+
 This tutorial explains how to train, detect, and classify apples based on color (red, yellow, green) using a pre-trained YOLOv8 model.
-<img src="https://drive.google.com/uc?id=1cFpPtUpSlOiXk5XhoEwEZvI2vIUIGtdU" width="100%" height="300 cm">
+<div style="display: flex; justify-content: center;">
+  <img src="https://drive.google.com/uc?id=1cFpPtUpSlOiXk5XhoEwEZvI2vIUIGtdU" "center" width="auto" height="200 cm">
+</div>
 
 ## Prepare Dataset
    * Source dataset: [Apple Annotation with Roboflow](https://universe.roboflow.com/tugas-akhir-70fw5/apel-mrg3l/dataset/1).
